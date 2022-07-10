@@ -1,1 +1,1 @@
-# botcs50
+Ciencia da computação com CS50
